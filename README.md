@@ -5,6 +5,8 @@
 <br>
 
 - 👨‍💻 Full Stack Developer
+- 👨‍💻 Backend Developer
+- 👨‍💻 Frontend Developer
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/thushantha_sanju/) 
 

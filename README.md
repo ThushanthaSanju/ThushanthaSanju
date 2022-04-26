@@ -26,8 +26,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![ThushanthaSanju's github stats](https://github-readme-stats.vercel.app/api?username=Hirunagrad&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunagrad&theme=tokyonight&layout=compact)
+![ThushanthaSanju's github stats](https://github-readme-stats.vercel.app/api?username=ThushanthaSanju&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThushanthaSanju&theme=tokyonight&layout=compact)
 
 
 

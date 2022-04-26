@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there Manoharan Thushantha Sanju 👋
 
-<!--
-**ThushanthaSanju/ThushanthaSanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<img width="18%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
 
-Here are some ideas to get you started:
+- 👨‍💻 Full Stack Developer
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/thushantha_sanju/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=blue" alt="Hiruna Gayashan" /> </p>
+
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+![ThushanthaSanju's github stats](https://github-readme-stats.vercel.app/api?username=Hirunagrad&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunagrad&theme=tokyonight&layout=compact)
+
+
+
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/thushantha-sanju-718288129/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiruna%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/thushantha_sanju/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hiruna-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:thushanthasanju8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hirunagrad@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+ <br>
+ <br>

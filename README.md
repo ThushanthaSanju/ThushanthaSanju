@@ -12,7 +12,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=blue" alt="Hiruna Gayashan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThushanthaSanju&color=blue" alt="Thushantha Sanju" /> </p>
 
 
 **Languages:**  

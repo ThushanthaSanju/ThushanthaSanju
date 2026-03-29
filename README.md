@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Manoharan%20Thushantha%20Sanju&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning&descSize=16&descAlignY=55&descColor=58a6ff" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">

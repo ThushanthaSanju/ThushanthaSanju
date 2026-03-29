@@ -11,9 +11,9 @@
 <br/>
 
 <!-- QUICK LINKS -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-t--sanju.me-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.t-sanju.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushantha-sanju-718288129/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thushanthasanju8@gmail.com)
+<a href="https://www.t-sanju.me/"><img src="https://img.shields.io/badge/Portfolio-t--sanju.me-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thushantha-sanju-718288129/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thushanthasanju8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
@@ -67,9 +67,9 @@ currently:
 
 <div align="center">
 
-![](https://img.shields.io/badge/3%2B_Years-Production_Experience-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/MSc-AI_Research-58a6ff?style=flat-square)
-![](https://img.shields.io/badge/Published-ML_Research-8b949e?style=flat-square)
+<img src="https://img.shields.io/badge/3%2B_Years-Production_Experience-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/MSc-AI_Research-58a6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Published-ML_Research-8b949e?style=flat-square" />
 
 </div>
 
@@ -104,59 +104,70 @@ currently:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" height="44" />
-&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="44" />
-&nbsp;&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-<br/>
-
-![NLP](https://img.shields.io/badge/NLP-58a6ff?style=flat-square)
-![Conformal Prediction](https://img.shields.io/badge/Conformal_Prediction-58a6ff?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-58a6ff?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-58a6ff?style=flat-square)
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NLP-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Conformal_Prediction-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explainable_AI-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-58a6ff?style=flat-square" />
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="44" />
-&nbsp;&nbsp;
-![Dashboards](https://img.shields.io/badge/Dashboards-61DAFB?style=flat-square)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-61DAFB?style=flat-square)
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_UI-61DAFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboards-61DAFB?style=flat-square" />
+</p>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask&theme=dark" height="44" />
-&nbsp;&nbsp;
-![REST APIs](https://img.shields.io/badge/REST_APIs-339933?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-339933?style=flat-square)
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-339933?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-339933?style=flat-square" />
+</p>
 
 ### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins&theme=dark" height="44" />
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,linux&theme=dark" height="44" />
-&nbsp;&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
 </div>
 
@@ -181,13 +192,13 @@ currently:
 Transformer-based clinical NLP system for ICD code recommendation with **uncertainty-aware prediction** and **token-level explainability**. Built to support safer clinical decision-making.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/XAI-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAI-58a6ff?style=flat-square" />
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThushanthaSanju)
+<a href="https://github.com/ThushanthaSanju"><img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -198,32 +209,32 @@ Transformer-based clinical NLP system for ICD code recommendation with **uncerta
 Full-stack market prediction platform with ML-powered recommendation engine. Real-time data pipelines, model serving, and interactive dashboards.
 
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" />
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThushanthaSanju)
+<a href="https://github.com/ThushanthaSanju"><img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Clinical Notes NLP Analyser
+### 🏥 Clinical Notes NLP Analyzer
 **Transformer-based NLP Pipeline**
 
 Entity extraction and structured analysis pipeline for clinical note data using transformer architectures. Production-grade pipeline for healthcare text processing.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-58a6ff?style=flat-square" />
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThushanthaSanju)
+<a href="https://github.com/ThushanthaSanju"><img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -234,13 +245,13 @@ Entity extraction and structured analysis pipeline for clinical note data using 
 End-to-end booking platform with JWT authentication, real-time seat selection, and complete transaction flows.
 
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThushanthaSanju)
+<a href="https://github.com/ThushanthaSanju"><img src="https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -277,10 +288,12 @@ End-to-end booking platform with JWT authentication, real-time seat selection, a
 
 <div align="center">
 
-![NLP](https://img.shields.io/badge/Natural_Language_Processing-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff)
-![XAI](https://img.shields.io/badge/Explainable_AI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff)
-![CP](https://img.shields.io/badge/Conformal_Prediction-0d1117?style=for-the-badge&logo=target&logoColor=58a6ff)
-![DL](https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=58a6ff)
+<p>
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-0d1117?style=for-the-badge&logo=bookstack&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Explainable_AI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Conformal_Prediction-0d1117?style=for-the-badge&logo=target&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=58a6ff" />
+</p>
 
 </div>
 
@@ -310,20 +323,27 @@ End-to-end booking platform with JWT authentication, real-time seat selection, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThushanthaSanju&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThushanthaSanju&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/ThushanthaSanju">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThushanthaSanju&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+</a>
+<a href="https://github.com/ThushanthaSanju">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThushanthaSanju&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThushanthaSanju&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180em" />
+<a href="https://github.com/ThushanthaSanju">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThushanthaSanju&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180em" />
+</a>
 
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanthaSanju&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanthaSanju&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
+</div>
 
 <br/>
 
@@ -337,17 +357,14 @@ End-to-end booking platform with JWT authentication, real-time seat selection, a
 <div align="center">
 
 <a href="https://www.t-sanju.me/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-t--sanju.me-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-t--sanju.me-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/thushantha-sanju-718288129/">
   <img src="https://img.shields.io/badge/LinkedIn-Thushantha_Sanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://github.com/ThushanthaSanju">
   <img src="https://img.shields.io/badge/GitHub-ThushanthaSanju-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:thushanthasanju8@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
